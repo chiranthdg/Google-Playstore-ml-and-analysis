@@ -10,6 +10,7 @@
 4.Use the data sets and make necessary changes in paths of files and run the app with streamlit run file.py command
 and you will be able to see the results
 
-
+Libraries and Concepts used
+Pandas,Numpy,sklearn,linear-regression,nearest-neighbors,seaborn,matplotlib
 
 #Next goal of project is to deploy it on azure and put up all the analysis charts with description in the file
